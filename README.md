@@ -15,7 +15,7 @@ Vorsicht: Nur Eingaben in die blau hinterlegten Felder machen, es besteht sonst 
 
 |  |   |
 |  :--- |  :---: |
-| In die blau hinterlegten Felder werden die Namen eingefügt oder aus einem anderen Dokument kopiert. Diese Namen werden dann automatisch auf die anderen Tabellenblätter übertragen. | 
+| In die blau hinterlegten Felder werden die Namen eingefügt oder aus einem anderen Dokument kopiert. Diese Namen werden dann automatisch auf die anderen Tabellenblätter übertragen. | <img width="778" alt="1" src="https://github.com/user-attachments/assets/a7045161-289a-4e38-974d-974e457426a6">
  |
 | Unterhalb des Dokuments  | Bild 2  |
 
