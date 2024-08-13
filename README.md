@@ -35,9 +35,9 @@ Der Tab *sMA Info* dient der Vorbereitung von Rückmeldzetteln für Schüler (z.
 |  :--- |  :---: |
 | In die Spalte Stand werden nun die Noten eingetragen, die zurückgemeldet werden sollen. Sollten diese aus dem Tabellenblatt *Details sMA* kopiert werden, so wieder auf das Einfügen mit der Option *Einsetzen und Stil anpassen* unter *Menü-Bearbeiten* achten. Die Spalte *Notiz* kann für Bemerkungen an die Schüler genutzt werden. Speichern.  | ![Bild 6](https://github.com/user-attachments/assets/23853d20-9b4d-4891-9e62-d533aa7909e3) |
 | Die zweite Download-Datei *sek1_sMA_Info.pages* (vorher umbennenen!) öffen. Die blauen Texte ersetzen (Fach, Datum). Gegebenenfalls Anpassungen am Layout vornehmen aber Vorsicht: Die Felder Nachname und Vorname sowie Note und Bemerkung sind Formularfelder. | ![Bild 7](https://github.com/user-attachments/assets/5bb70bf6-2416-4d0a-b709-4cbbd3c0ce06) |
-|Diese muss nun noch mit der Tabelle verknüpft werden. Dazu rechts oben auf *Dokument*, unten in der rechten Spalte auf *Serienbrief*  | ![Bild 8](https://github.com/user-attachments/assets/9dbf4fc1-258f-46ce-9da2-2dea63dfbfcb) |
-| Anschließend oben auf das schwarz hinterlegte Feld *Verbinden* | ![Bild 9](https://github.com/user-attachments/assets/7b3c81be-7b07-4518-a953-9f13f5286453) |
-|Diese muss nun noch mit der Tabelle verknüpft werden. Dazu rechts oben auf *Dokument*, unten in der rechten Spalte auf *Serienbrief*  | ![Bild 8](https://github.com/user-attachments/assets/9dbf4fc1-258f-46ce-9da2-2dea63dfbfcb) |
+|Diese muss nun noch mit der Tabelle verknüpft werden. Dazu rechts oben auf *Dokument*, unten in der rechten Spalte auf *Serienbrief*  | ![Bild 10](https://github.com/user-attachments/assets/18a66b59-defc-4ca5-9a70-e1f4194a146f) |
+| Anschließend oben auf das schwarz hinterlegte Feld *Verbinden* | ![Bild 11](https://github.com/user-attachments/assets/d7025018-db6a-441d-8180-cdee302dfed1) |
+|Diese muss nun noch mit der Tabelle verknüpft werden. Dazu rechts oben auf *Dokument*, unten in der rechten Spalte auf *Serienbrief*  | ![Bild 12](https://github.com/user-attachments/assets/1381846a-1a5d-4c54-b9d2-d9c1d92160a9) |
 | | ![Bild 9](https://github.com/user-attachments/assets/ee2e1a9b-8d89-4f52-9cea-ed599403a037) |
 
 
