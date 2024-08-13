@@ -25,6 +25,6 @@ Die beiden Dateien *sek1_Notenverwaltung.numbers* und *sek1_sMA_Info.pages* als 
 | Das Löschen von eingetragenen Zellinhalten geschieht mittels der Delete/Backspace-Taste. Anschließend sollte sich die Zelle wieder blau färben.   |  |
 
 ## Details zur sonstigen Mitarbeit
-| Die Namen wurden bereits aus dem Tabellenblatt *Notenübersicht* übernommen. Es kann Titel für die sonstige Mitarbeit vergeben werden und es muss eine Gewichtung für diese vergeben werden. Es ist darauf zu achten, dass sich die Gewichtungen in Prozent zu 100 % addieren, andernfalls wird keine Gesamtnote berechnet. | ![Bild 6](https://github.com/user-attachments/assets/a7045161-289a-4e38-974d-974e457426a6)|
+| Die Namen wurden bereits aus dem Tabellenblatt *Notenübersicht* übernommen. Es kann jeweils ein Titel für die sonstige Mitarbeit in den dafür vorgesehenen blau hinterlegten Zellen vergeben werden. Es muss eine Gewichtung für diese vergeben werden. Die Standardeinstellungen sind zwei mündliche Leistungen ohne Titel, die jeweils mit 50% gewichtet werden. Es ist darauf zu achten, dass sich die Gewichtungen in Prozent zu 100 % addieren, andernfalls wird keine Gesamtnote berechnet. | ![Bild 6](https://github.com/user-attachments/assets/a7045161-289a-4e38-974d-974e457426a6)|
 
 ## Rückmeldezettel für Schüler generieren
