@@ -10,12 +10,12 @@ Mit diesem Notenrechner lassen sich die Halbjahresnote und die Ganzjahresnote au
 - Notensprünge werden angezeigt.
 - Statistiken werden angezeigt.
 
-## Vorgehensweise
+## Empfohlene Vorgehensweise
 Vorsicht: Nur Eingaben in die blau hinterlegten Felder machen, es besteht sonst die Gefahr des Überschreibens von Formelfeldern.
 
 |  |   |
 |  :--- |  :---: |
-| In die blau hinterlegten Felder werden die Namen eingefügt oder aus einem anderen Dokument kopiert. Diese Namen werden dann automatisch auf die anderen Tabellenblätter übertragen. | <img width="778" alt="1" src="https://github.com/user-attachments/assets/a7045161-289a-4e38-974d-974e457426a6">
+| In die blau hinterlegten Felder werden die Namen eingefügt oder aus einem anderen Dokument kopiert (nach dem Kopieren mit der Option * * Einsetzen und Stil anpassen * * unter * * Menü-Bearbeiten * * einfügen). Diese Namen werden dann automatisch auch auf die anderen Tabellenblätter übertragen. | <img width="778" alt="1" src="https://github.com/user-attachments/assets/a7045161-289a-4e38-974d-974e457426a6">
  |
 | Unterhalb des Dokuments  | Bild 2  |
 
