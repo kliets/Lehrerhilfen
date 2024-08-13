@@ -31,7 +31,9 @@ Die beiden Dateien *sek1_Notenverwaltung.numbers* und *sek1_sMA_Info.pages* als 
 
 ## Rückmeldezettel für Schüler generieren
 Der Tab *sMA Info* dient der Vorbereitung von Rückmeldzetteln für Schüler (z.B. für Projektnoten oder den derzeitigen Stand der sonstigen Mitarbeit). Die Namen wurden bereits aus dem Tabellenblatt *Notenübersicht* übernommen. 
-| In die Spalte Stand werden nun die Noten eingetragen, die zurückgemeldet werden sollen. Sollten diese aus dem Tabellenblatt *Details sMA* kopiert werden, so wieder auf das Einfügen mit der Option *Einsetzen und Stil anpassen* unter *Menü-Bearbeiten* achten. Die Spalte *Notiz* kann für Bemerkungen an die Schüler genutzt werden. Speichern.  | ![Bild 6]() |
+|  |   |
+|  :--- |  :---: |
+| In die Spalte Stand werden nun die Noten eingetragen, die zurückgemeldet werden sollen. Sollten diese aus dem Tabellenblatt *Details sMA* kopiert werden, so wieder auf das Einfügen mit der Option *Einsetzen und Stil anpassen* unter *Menü-Bearbeiten* achten. Die Spalte *Notiz* kann für Bemerkungen an die Schüler genutzt werden. Speichern.  | ![Bild 6](https://github.com/user-attachments/assets/23853d20-9b4d-4891-9e62-d533aa7909e3) |
 | Die zweite Download-Datei *sek1_sMA_Info.pages* (vorher umbennenen!) öffen. Die blauen Texte ersetzen (Fach, Datum). Gegebenenfalls Anpassungen am Layout vornehmen aber Vorsicht: Die Felder Nachname und Vorname sowie Note und Bemerkung sind Formularfelder. |  |
 
 |Diese muss nun noch mit der Tabelle verknüpft werden. Dazu rechts oben auf *Dokument*, unten in der rechten Spalte auf *Serienbrief*  | ![Bild 7]() |
