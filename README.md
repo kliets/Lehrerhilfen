@@ -16,5 +16,6 @@ Vorsicht: Nur Eingaben in die blau hinterlegten Felder machen, es besteht sonst 
 
 | ------------- | ------------- |
 | In die blau hinterlegten Felder werden die Namen eingefügt oder aus einem anderen Dokument kopiert. Diese Namen werden dann automatisch auf die anderen Tabellenblätter übertragen.  | Bild 1 |
+| ------------- | ------------- |
 | Unterhalb des Dokuments  | Bild 2  |
 | ------------- | ------------- |
