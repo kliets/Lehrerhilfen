@@ -13,8 +13,11 @@ Mit diesem Notenrechner lassen sich die Halbjahresnote und die Ganzjahresnote au
 ## Empfohlene Vorgehensweise
 Vorsicht: Nur Eingaben in die blau hinterlegten Felder machen, es besteht sonst die Gefahr des Überschreibens von Formelfeldern.
 
+Die beiden Dateien *sek1_Notenverwaltung.numbers* und *sek1_sMA_Info.pages* als Vorlagen herunterladen, anschließend kopieren und umbenennen (z.B. Noten_8b_Mathe.numbers und Noten_8b_Mathe.pages).
+
 |  |   |
 |  :--- |  :---: |
-| In die blau hinterlegten Felder werden die Namen eingefügt oder aus einem anderen Dokument kopiert (nach dem Kopieren mit der Option *Einsetzen und Stil anpassen* unter *Menü-Bearbeiten* einfügen). Diese Namen werden dann automatisch auch auf die anderen Tabellenblätter übertragen. Klasse und Tutor optional eingeben | <img width="778" alt="1" src="https://github.com/user-attachments/assets/a7045161-289a-4e38-974d-974e457426a6">|
-| Unterhalb des Dokuments  | Bild 2  |
+| Das .numbers-Dokument öffnen und den Reiter *Notenübersicht* wählen. Die Überschrift *Notenübersicht Klasse XY / Fach   (Schuljahr 2024/25)* anpassen. In die blau hinterlegten Felder werden die Namen eingefügt oder aus einem anderen Dokument kopiert (nach dem Kopieren mit der Option *Einsetzen und Stil anpassen* unter *Menü-Bearbeiten* einfügen). Diese Namen werden dann automatisch auch auf die anderen Tabellenblätter übertragen. Klasse und Tutor optional eingeben | <img width="778" alt="1" src="https://github.com/user-attachments/assets/a7045161-289a-4e38-974d-974e457426a6">|
+| Unterhalb der eigentlichen Tabelle im Bereich der Gewichtungen ggf. die entsprechenden Prozentwerte in die blau hinterlegten Felder einstellen (ein Wert pro Gewichtung genügt, der zweite wird automatisch zu 100% ergänzt). Die Standardeinstellungen lauten:   | Bild 2  |
+| Die Spalte Vorjahresnoten (optional) eingeben, um sich Tendenzen und Notensprünge in Bezug auf das Vorjahr anzeigen zu lassen. Die schriftlichen Leistungen unter KA Nr.1 und Nr. 2 eingeben, die sonstige Mitarbeit unter sonst. MA. Sollten Noten aus anderen Bereichen kopiert und eingefügt werden, wieder auf das Einfügen mittels *Einsetzen und Stil anpassen* unter *Menü-Bearbeiten* achten, um die Farbformatierungen beizubehalten.  | Bild 3  |
 
