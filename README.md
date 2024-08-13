@@ -40,7 +40,7 @@ Der Tab *sMA Info* dient der Vorbereitung von Rückmeldzetteln für Schüler (z.
 | Hier nun unter Datei die (anfangs umbenannte) Numbers-Datei auswählen (z.B. *Noten_8b_Mathe.numbers*). Unter Tabelle die Tabelle *sMA Info: Vorbereitung Informationszettel Schüler zur sMA* auswählen. Die Buchstabenzuorndnung sollte bereits bestehen und bleiben. Anschließend *Verbinden*. | ![Bild 12](https://github.com/user-attachments/assets/1381846a-1a5d-4c54-b9d2-d9c1d92160a9) |
 |Nach dem Generieren und dem Aufpoppen des neuen Dokuments oben im Pages-Menü unter *Ablage* *Drucken* auswählen  | ![Bild 14](https://github.com/user-attachments/assets/d7a7582d-0078-4d02-a4fa-da0e826ddc72) |
 | Dann in den *Layout*-Einstellungen des Druckers z.B. *6 Seiten pro Blatt* wählen und entweder |  |
-|a) den Drucker auswählen und drucken oder | ![Bild 15](https://github.com/user-attachments/assets/741112c7-858a-4acf-866d-514828d091a3)  |
-|b) links unten in ein PDF drucken und speichern für den späteren Ausdruck und zum digitalen "Verteilen". | ![Bild 15](https://github.com/user-attachments/assets/ee2e1a9b-8d89-4f52-9cea-ed599403a037) |
-
+|a) den Drucker auswählen und drucken oder | ![Bild 15](https://github.com/user-attachments/assets/fe2e299d-008e-44e3-95c4-cc0237f4fa92)  |
+|b) links unten in ein PDF drucken und speichern für den späteren Ausdruck und zum digitalen "Verteilen". | ![Bild 15](https://github.com/user-attachments/assets/89ab2c3a-df61-44d3-ae8d-eab61dc07ac1) |
+| | ![Bild 15](https://github.com/user-attachments/assets/eb77d1fe-db1f-4cdd-a8af-31ba9535ccca) |
 
