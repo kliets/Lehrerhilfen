@@ -37,7 +37,7 @@ Der Tab *sMA Info* dient der Vorbereitung von Rückmeldzetteln für Schüler (z.
 | Die zweite Download-Datei *sek1_sMA_Info.pages* (vorher umbennenen!) öffen. Die blauen Texte ersetzen (Fach, Datum). Gegebenenfalls Anpassungen am Layout vornehmen aber Vorsicht: Die Felder Nachname und Vorname sowie Note und Bemerkung sind Formularfelder. | ![Bild 7](https://github.com/user-attachments/assets/5bb70bf6-2416-4d0a-b709-4cbbd3c0ce06) |
 |Diese muss nun noch mit der Tabelle verknüpft werden. Dazu rechts oben auf *Dokument*, unten in der rechten Spalte auf *Serienbrief*  | ![Bild 10](https://github.com/user-attachments/assets/18a66b59-defc-4ca5-9a70-e1f4194a146f) |
 | Anschließend oben auf das schwarz hinterlegte Feld *Verbinden* | ![Bild 11](https://github.com/user-attachments/assets/d7025018-db6a-441d-8180-cdee302dfed1) |
-|Diese muss nun noch mit der Tabelle verknüpft werden. Dazu rechts oben auf *Dokument*, unten in der rechten Spalte auf *Serienbrief*  | ![Bild 12](https://github.com/user-attachments/assets/1381846a-1a5d-4c54-b9d2-d9c1d92160a9) |
+| Hier nun unter Datei die (anfangs umbenannte) Numbers-Datei auswählen (z.B. *Noten_8b_Mathe.numbers*). Unter Tabelle die Tabelle *sMA Info: Vorbereitung Informationszettel Schüler zur sMA* auswählen. Die Buchstabenzuorndnung sollte bereits bestehen und bleiben. | ![Bild 12](https://github.com/user-attachments/assets/1381846a-1a5d-4c54-b9d2-d9c1d92160a9) |
 |xxx | ![Bild 9](https://github.com/user-attachments/assets/ee2e1a9b-8d89-4f52-9cea-ed599403a037) |
 
 
