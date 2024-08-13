@@ -11,7 +11,7 @@ Mit diesem Notenrechner lassen sich die Halbjahresnote und die Ganzjahresnote au
 - Statistiken werden angezeigt.
 
 ## Erfassung und Berechnung der Halbjahresnoten und der Gesamtnote
-Vorsicht: Nur Eingaben in die blau hinterlegten Felder machen, es besteht sonst die Gefahr des Überschreibens von Formelfeldern.
+**Vorsicht: Nur Eingaben in die blau hinterlegten Felder machen, es besteht sonst die Gefahr des Überschreibens von Formelfeldern.**
 
 Die beiden Dateien *sek1_Notenverwaltung.numbers* und *sek1_sMA_Info.pages* als Vorlagen herunterladen, anschließend kopieren und umbenennen (z.B. Noten_8b_Mathe.numbers und Noten_8b_Mathe.pages).
 
@@ -23,6 +23,8 @@ Die beiden Dateien *sek1_Notenverwaltung.numbers* und *sek1_sMA_Info.pages* als 
 | Die Tendenzen (Pfeile) und Notensprünge (Ausrufezeichen) befinden sich immer vor den enstprechenden Halbjahren. Die Spalten F und G beziehen den Stand des Halbjahres somit auf den des Vorjahres, die Spalten P und Q den Stand des zweiten Halbjahres auf den des 1. Halbjahres.  | ![Bild 4](https://github.com/user-attachments/assets/1cac1de9-c122-40c7-940c-81bbd0ce3ee9) |
 | Für das zweite Halbjahr verfährt man analog zum ersten Halbjahr und gibt auch hier wieder die beiden schriftlichen Noten und die der sonstigen Mitarbeit ein. Die gemäß der angegebenen Gewichtung berechnete Gesamtnote des zweiten Halbjahres lässt sich auch hier ggf. korrigieren genauso wie die automatisch berechnete Gesamtnote. Die vier letzten Spalten geben noch einmal die Tendenzen der Ganzjahresnote in Bezug auf die Gesamtnote des zweiten Halbjahres und die Vorjahresnote aus.   |  |
 | Das Löschen von eingetragenen Zellinhalten geschieht mittels der Delete/Backspace-Taste. Anschließend sollte sich die Zelle wieder blau färben.   |  |
+
+**Alle Numbers-Dateien können und sollten passwortgeschützt werden. Mehr zum Passwortwortschutz (auch mittels Touch-ID und Face-ID) [hier](https://support.apple.com/de-de/guide/numbers-ipad/tan42502bf11/ipados).**
 
 ## Details zur sonstigen Mitarbeit
 |  |   |
