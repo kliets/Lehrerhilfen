@@ -1,5 +1,5 @@
 # Einfacher Notenrechner für die Sek 1 in Numbers
-(Angepasster Rechner auf der Grundlage des Notenrechners von [Tobias Weh](https://github.com/tweh/lehrerwerkzeuge.git) )
+(Auf Schleswig-Holstein angepasster Notenrechner auf der Grundlage von [Tobias Weh](https://github.com/tweh/lehrerwerkzeuge.git) )
 
 ## Was kann der Notenrechner?
 Mit diesem Notenrechner lassen sich die Halbjahresnote und die Ganzjahresnote auf Grundlage zweier schriftlicher Bewertungen und einer für die sonstige Mitarbeit mittels einer eigenen Gewichtung berechnen. Ein weiteres Tabellenblatt berechnet die Note für die sonstige Mitarbeit aus einer optional detaillierten Eingabe von mehreren Leistungen. Daraus lässt sich einfach ein Notenrückmeldungszettel an die Schüler mithilfe des Pages-Dokumentes erstellen (z.B. für Projekte oder Zwischenstände).
@@ -10,7 +10,7 @@ Mit diesem Notenrechner lassen sich die Halbjahresnote und die Ganzjahresnote au
 - Notensprünge werden angezeigt.
 - Statistiken werden angezeigt.
 
-## Empfohlene Vorgehensweise
+## Erfassung und Berechnung der Halbjahresnoten und der Gesamtnote
 Vorsicht: Nur Eingaben in die blau hinterlegten Felder machen, es besteht sonst die Gefahr des Überschreibens von Formelfeldern.
 
 Die beiden Dateien *sek1_Notenverwaltung.numbers* und *sek1_sMA_Info.pages* als Vorlagen herunterladen, anschließend kopieren und umbenennen (z.B. Noten_8b_Mathe.numbers und Noten_8b_Mathe.pages).
